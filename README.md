@@ -70,16 +70,3 @@ A user-friendly GUI allows the user to easily select operations to test. The GUI
 - **Test Selection**: Simple buttons or dropdowns to choose which test to run (e.g., memory allocation, thread creation).
   
 - **Results Display**: After the test is complete, the results are shown in a clear and organized manner. Graphical representations (such as bar charts) can be used to visualize the performance of different languages across various tests.
-
-#### **Operations Tested**:
-1. **Memory Allocation**:
-   - **Static**: Allocation performed at compile-time (e.g., fixed-size arrays).
-   - **Dynamic**: Allocation during runtime using malloc (C/C++) or similar methods.
-
-2. **Thread Creation & Context Switching**:
-   - The time it takes to create a new thread and switch between threads during execution.
-
-3. **Thread Migration**:
-   - The time required for a thread to migrate from one core to another in a multi-core system. This helps evaluate how well languages manage multi-threading in distributed systems.
-
----
