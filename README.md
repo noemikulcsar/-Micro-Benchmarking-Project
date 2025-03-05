@@ -4,7 +4,7 @@
 
 #### 📌 Objective
 
-The purpose of this project is to compare the execution times of various operations such as memory allocation, thread creation, and other fundamental processes across different programming languages: **C, Java, Python, C++, and C#**. These operations are central to understanding the performance characteristics of each language.
+The purpose of this project is to compare the execution times of various operations such as memory allocation, thread creation, and other fundamental processes across different programming languages: **Java and Python**. These operations are central to understanding the performance characteristics of each language.
 
 A graphical user interface (GUI) is incorporated to allow users to select specific operations and run tests. The results are displayed for comparison, aiding users in understanding the performance strengths and weaknesses of each language.
 
